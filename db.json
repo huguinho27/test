@@ -1,0 +1,34 @@
+{
+    "employees": [
+        {
+            "id": "idValue",
+            "type": "typeValue",
+            "login": "loginValue",
+            "shortName": "shortNameValue",
+            "jobTitleCode": "jobTitleCodeValue",
+            "categoryCode": "categoryCodeValue",
+            "organizationalLevelName": "organizationalLevelNameValue",
+            "organizationalLevelQualifiedName": "organizationalLevelQualifiedNameValue",
+            "workLocationName": "workLocationNamevalue",
+            "companyShortName": "companyShortNameValue",
+            "dateJoined": "dateJoinedValue",
+            "workingToday": false,
+            "status": "statusValue"
+        },
+        {
+            "id": "idValue2",
+            "type": "typeValue2",
+            "login": "loginValue2",
+            "shortName": "shortNameValue2",
+            "jobTitleCode": "jobTitleCodeValue2",
+            "categoryCode": "categoryCodeValue2",
+            "organizationalLevelName": "organizationalLevelNameValue2",
+            "organizationalLevelQualifiedName": "organizationalLevelQualifiedNameValue2",
+            "workLocationName": "workLocationNamevalue2",
+            "companyShortName": "companyShortNameValue2",
+            "dateJoined": "dateJoinedValue2",
+            "workingToday": false,
+            "status": "statusValue2"
+        }
+    ]
+}
