@@ -13,6 +13,7 @@
             "companyShortName": "companyShortNameValue",
             "dateJoined": "dateJoinedValue",
             "workingToday": false,
+            "dateModified": 1582106761,
             "status": "statusValue"
         },
         {
@@ -28,6 +29,7 @@
             "companyShortName": "companyShortNameValue2",
             "dateJoined": "dateJoinedValue2",
             "workingToday": false,
+            "dateModified": 1582106761,
             "status": "statusValue2"
         }
     ]
